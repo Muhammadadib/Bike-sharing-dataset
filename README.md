@@ -8,5 +8,6 @@ Proyek Analisis Data
 
 ## Run streamlit app
 ```
+cd Bike-sharing-dataset
 streamlit run main.py
 ```
